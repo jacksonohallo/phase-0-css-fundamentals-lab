@@ -145,7 +145,5 @@ comfortable quickly finding the property/value you are looking for online is the
 most important skill set you can develop right now. Memorization is for
 machines, adaptation is for humans!
 
-[un-styled]:
-  https://curriculum-content.s3.amazonaws.com/web-development/unstyled-codepen.jpeg
-[styled]:
-  https://curriculum-content.s3.amazonaws.com/web-development/styled-codepen.jpeg
+[un-styled]: https://curriculum-content.s3.amazonaws.com/web-development/unstyled-codepen.jpeg
+[styled]: https://curriculum-content.s3.amazonaws.com/web-development/styled-codepen.jpeg
